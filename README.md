@@ -23,3 +23,11 @@ cd Business_Quant_Project
 
 Install Required Libraries
 pip install pandas beautifulsoup4 lxml xlsxwriter
+
+
+Run the Python script
+python extract_tables.py
+
+Check the output file
+The formatted Excel file will be saved to:
+C:\Business_Quant\formatted_output.xlsx
