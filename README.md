@@ -19,3 +19,7 @@ This project extracts and processes financial data from HTML tables into a forma
 ```bash
 git clone https://github.com/deepakmehra0228/Business_Quant_Project.git
 cd Business_Quant_Project
+
+
+Install Required Libraries
+pip install pandas beautifulsoup4 lxml xlsxwriter
